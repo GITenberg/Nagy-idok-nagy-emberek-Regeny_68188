@@ -1,0 +1,50 @@
+_repo: Nagy-idok-nagy-emberek-Regeny_68188
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+  illustrator:
+    agent_name: Heyer, Artúr
+    aliases:
+    - Heyer, Artur
+    - Heyer, Arthur
+    birthdate: 1872
+    deathdate: 1931
+    gutenberg_agent_id: '54439'
+    url: http://www.gutenberg.org/2009/agents/54439
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arthur_Heyer
+    - https://hu.wikipedia.org/wiki/Heyer_Arthur
+creator:
+  author:
+    agent_name: Vas, Gereben
+    gutenberg_agent_id: '54647'
+    url: http://www.gutenberg.org/2009/agents/54647
+description: ''
+gutenberg_issued: '2022-05-27'
+identifiers:
+  gutenberg: '68188'
+language: hu
+pgterms:marc905: 20220515002639vas
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Internet
+  Archive
+publication_note: Hungary :Franklin,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nagy idők, nagy emberek: Regény'
+url: http://www.gutenberg.org/ebooks/68188
